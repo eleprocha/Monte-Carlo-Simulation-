@@ -9,4 +9,4 @@ for trial in range(trials):
         faces.add(roll)
     if len(faces)==6:
         success+=1
-print("probability of sucess = {}".format(success/trials))
+print("probability of success = {}".format(success/trials))
