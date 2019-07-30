@@ -1,4 +1,4 @@
-#Monte_carlo_mrthod 
+#Monte_carlo_method 
 from random import randint
 trials=100000
 success=0
